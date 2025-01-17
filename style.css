@@ -1,0 +1,21 @@
+body {
+    background-color: #f5f5dc; /* Warm beige */
+    color: #333; /* Dark text for readability */
+}
+
+.nav {
+    background-color: #003366; /* Navy blue */
+}
+
+.nav a {
+    color: #ffffff; /* White text for contrast */
+}
+
+.section h2 {
+    color: #800000; /* Burgundy for headings */
+}
+
+.wall-post {
+    background-color: #e6e6e6; /* Light gray for posts */
+    border: 1px solid #ccc; /* Subtle border */
+}
